@@ -8,10 +8,7 @@ local multiplayer, customizable themes and game history.
 Download the latest Android version from the Releases section.
 
 ## Features
-- Stockfish AI
-- Local Two Player
-- Customizable Chess Themes
-- Game History
-- Offline Gameplay
+
+##GAME IN DEV(DEV SOLO)
 
 Made with passion. Play your move!
