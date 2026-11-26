@@ -9,6 +9,6 @@ Download the latest Android version from the Releases section.
 
 ## Features
 
-##GAME IN DEV(DEV SOLO)
+## GAME IN DEV(DEV SOLO)
 
 Made with passion. Play your move!
